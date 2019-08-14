@@ -1,0 +1,41 @@
+Eldrazi Temple:Eldrazi
+Tarmogoyf:Jund
+Living End:Living End
+Hollow One:Graveyard; Hollow One
+Niv-Mizzet Reborn:WUBRG
+Arcbound Ravager:Artifact
+Jace, The Mind Sculptor:Control
+Teferi, Time Raveler:Control
+Hogaak, Arisen Necroplis:Graveyard; Hogaak
+Glistener Elf:Infect
+Young Pyromacer and Seasoned Pyromancer:Mid range
+Ugin, the Spirit Dragon:Tron
+Lord of Atlantis:Merfolk
+Temur Battle Rage and Death’s Shadow:Grixis Shadow
+Karn, the Great Creator:Control
+Whir Of Invention:Mill
+Spell Queller:Spirits
+Kiki-jiki, Mirror Breaker or Felidar Gaurdian:Combo
+Lava Spike:Burn
+Arclight Phoenix:Graveyard;Phoenix
+Griselbrand:Combo
+Soulflayer:Combo
+Ezuri, Renegade Leader:Elves
+Goblin Matron:Goblins
+Grapeshot:Storm
+Meddling Mage:Death and Taxes
+Thalia, Guardian of Thraben:Death and Taxes
+Solemnity:Jank
+Primeval Titan:Amulet Titan
+Cryptic Command:Counter Control
+Steel Leaf Champion:Green Stompy
+Karn, the Great Creator:Artifacts
+Soul-Scar Mage:Prowess Combo
+Hex Drinker:Jund
+Electrodominance:Suspend
+Blood Moon:Control
+Mox Opal:Artifacts
+Scapeshift:Combo
+Kiln Fiend:Prowess Combo
+Champion of the Parish:Humans
+Golgari Thug:Dredge
